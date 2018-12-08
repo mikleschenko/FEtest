@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'MullerRegular';
+    src: url('../fonts/Muller Regular.otf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MullerBold';
+    src: url('../fonts/Fontfabric - MullerBold.otf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MullerExtraBold';
+    src: url('../fonts/Muller-ExtraBold-DEMO.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
