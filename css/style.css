@@ -63,6 +63,7 @@
     border: none;
     padding: 17px 0;
     font-family: 'MullerBold', sans-serif;
+    cursor: pointer;
 }
 
 .scroll {
@@ -106,6 +107,7 @@
     flex-basis: 60%;
     position: relative;
 }
+
 .circle {
     position: relative;
     width: 180px;
@@ -172,6 +174,7 @@ li:last-child {
 .li-text {
     flex-basis:94%;
 }
+
 /*section 3*/
 .people {
     background: #273d50;
