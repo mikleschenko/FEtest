@@ -1,1 +1,1 @@
-https://mikleschenko.github.io/FEtest/index.thml
+https://mikleschenko.github.io/FEtest/index.html
